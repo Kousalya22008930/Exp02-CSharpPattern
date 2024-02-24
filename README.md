@@ -51,7 +51,7 @@ public class Pattern
 ```
 
 ## Output:
-![alt text](C#exp2out.png)
+![](C#exp2out.png)
 
 ## Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
